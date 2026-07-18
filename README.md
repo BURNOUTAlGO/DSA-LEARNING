@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0128-longest-consecutive-sequence) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0014-longest-common-prefix) |
@@ -111,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0206-reverse-linked-list) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
