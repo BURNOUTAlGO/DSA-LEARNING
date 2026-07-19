@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0088-merge-sorted-array](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0151-reverse-words-in-a-string) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0451-sort-characters-by-frequency) |
 ## String
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0328-odd-even-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -122,4 +125,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0003-longest-substring-without-repeating-characters) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
