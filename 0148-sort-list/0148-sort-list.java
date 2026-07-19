@@ -1,27 +1,57 @@
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.List;
-
 class Solution {
+
     public ListNode sortList(ListNode head) {
-        if (head == null) return null;
 
-        List<Integer> values = new ArrayList<>();
-        ListNode curr = head;
+        // Base Case
+        if (head == null || head.next == null)
+            return head;
 
-        while (curr != null) {
-            values.add(curr.val);
-            curr = curr.next;
+        // Find Middle
+        ListNode slow = head;
+        ListNode fast = head;
+        ListNode prev = null;
+
+        while (fast != null && fast.next != null) {
+            prev = slow;
+            slow = slow.next;
+            fast = fast.next.next;
         }
 
-        Collections.sort(values);
+        // Break the list into two halves
+        prev.next = null;
 
-        curr = head;
-        for (int val : values) {
-            curr.val = val;
-            curr = curr.next;
+        // Sort both halves
+        ListNode left = sortList(head);
+        ListNode right = sortList(slow);
+
+        // Merge
+        return merge(left, right);
+    }
+
+    private ListNode merge(ListNode l1, ListNode l2) {
+
+        ListNode dummy = new ListNode(-1);
+        ListNode tail = dummy;
+
+        while (l1 != null && l2 != null) {
+
+            if (l1.val <= l2.val) {
+                tail.next = l1;
+                l1 = l1.next;
+            } else {
+                tail.next = l2;
+                l2 = l2.next;
+            }
+
+            tail = tail.next;
         }
 
-        return head;
+        if (l1 != null)
+            tail.next = l1;
+
+        if (l2 != null)
+            tail.next = l2;
+
+        return dummy.next;
     }
 }
