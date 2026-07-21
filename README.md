@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0025-reverse-nodes-in-k-group](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0025-reverse-nodes-in-k-group) |
 | [0142-linked-list-cycle-ii](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0206-reverse-linked-list) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0002-add-two-numbers) |
+| [0025-reverse-nodes-in-k-group](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0206-reverse-linked-list) |
 ## Sliding Window
 |  |
