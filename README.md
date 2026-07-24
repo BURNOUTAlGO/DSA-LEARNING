@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0050-powx-n) |
+| [1922-count-good-numbers](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/1922-count-good-numbers) |
 ## Linked List
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0206-reverse-linked-list) |
+| [1922-count-good-numbers](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/1922-count-good-numbers) |
 ## Sliding Window
 |  |
 | ------- |
