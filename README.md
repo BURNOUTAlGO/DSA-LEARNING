@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0039-combination-sum) |
 | [0054-spiral-matrix](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0128-longest-consecutive-sequence) |
@@ -155,4 +156,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
