@@ -30,8 +30,8 @@ class Solution {
             return;
         }
 
-        char digit = digits.charAt(index);
-        String letters = map.get(digit);
+        char ch = digits.charAt(index);
+        String letters = map.get(ch);
 
         for (int i = 0; i < letters.length(); i++) {
             solve(index + 1, current + letters.charAt(i), res, digits);
