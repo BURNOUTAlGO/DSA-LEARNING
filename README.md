@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0128-longest-consecutive-sequence) |
+| [0216-combination-sum-iii](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0216-combination-sum-iii) |
 | [0560-subarray-sum-equals-k](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0078-subsets) |
+| [0216-combination-sum-iii](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
