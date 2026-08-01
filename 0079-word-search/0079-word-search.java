@@ -13,10 +13,10 @@ class Solution {
     }
 
     public boolean isFound(char[][] board, int r, int c, String word, int index) {
-        if (index == word.length()) {
+        if (index == word.length()) { // found the word 
             return true;
         }
-        if (r < 0 || r >= board.length || c < 0 || c >= board[0].length) {
+        if (r < 0 || r >= board.length || c < 0 || c >= board[0].length) { 
             return false;
         }
         if (board[r][c] == '*' || board[r][c] != word.charAt(index)) {
