@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0128-longest-consecutive-sequence) |
 | [0216-combination-sum-iii](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0216-combination-sum-iii) |
 | [0560-subarray-sum-equals-k](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/1004-max-consecutive-ones-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -179,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0079-word-search) |
+## Binary Search
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
