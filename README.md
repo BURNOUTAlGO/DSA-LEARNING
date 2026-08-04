@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0128-longest-consecutive-sequence) |
 | [0216-combination-sum-iii](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0216-combination-sum-iii) |
 | [0560-subarray-sum-equals-k](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0904-fruit-into-baskets) |
 ## Union-Find
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
