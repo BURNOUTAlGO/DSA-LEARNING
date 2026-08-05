@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/1248-count-number-of-nice-subarrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/1248-count-number-of-nice-subarrays) |
 ## Union-Find
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/1248-count-number-of-nice-subarrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0050-powx-n) |
+| [1248-count-number-of-nice-subarrays](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/1248-count-number-of-nice-subarrays) |
 | [1922-count-good-numbers](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/1922-count-good-numbers) |
 ## Linked List
 |  |
@@ -162,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/1248-count-number-of-nice-subarrays) |
 ## Divide and Conquer
 |  |
 | ------- |
