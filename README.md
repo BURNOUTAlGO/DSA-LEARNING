@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/1248-count-number-of-nice-subarrays) |
 ## Union-Find
 |  |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0451-sort-characters-by-frequency) |
+| [0992-subarrays-with-k-different-integers](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0992-subarrays-with-k-different-integers) |
 ## Math
 |  |
 | ------- |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0904-fruit-into-baskets](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/BURNOUTAlGO/DSA-LEARNING/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
